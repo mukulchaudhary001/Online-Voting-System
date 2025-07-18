@@ -1,3 +1,4 @@
+Author : Mukul Chaudhary
 # Online Voting System
 
 This is a simple and secure **Online Voting System** developed as a mini project using **HTML, CSS, PHP, and MySQL**. The system allows registered users to log in and cast their vote for available candidates, while ensuring that each user can vote only once.
